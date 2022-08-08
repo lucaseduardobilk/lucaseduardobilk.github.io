@@ -1,6 +1,9 @@
 body{
 background: yellow; 
 color: black; 
+text-align: center;
+font-family: roboto;
+font-size: x-large;
 }
 
 img{
